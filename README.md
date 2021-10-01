@@ -7,3 +7,4 @@ Highlight code with highlight.js for WordPress blog posts
 ```php
 require get_stylesheet_directory() . '/plugins/highlightjs/syntax-highlighting.php';
 ```
+* When editing a post, insert a code block and put your codes in it. The hightlight.js can automatically detect language.
